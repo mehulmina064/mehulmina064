@@ -17,7 +17,7 @@ I am a proficient Back End Developer with expertise in a wide range of technolog
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mehulmeena064&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehulmeena064&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulmeena064&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulmeena064&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mehulmeena064&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
