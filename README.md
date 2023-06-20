@@ -8,7 +8,7 @@ I am a proficient Back End Developer with expertise in a wide range of technolog
 
 * ✉️  You can contact me at [Mehulmeena064@gmail.com](mailto:Mehulmeena064@gmail.com)
 * 🚀  I'm currently working on [GOLANG BoilerPlate For REST API With MongoDB](http://github.com/mehulmina064/RestAPI-GOLANG-WITH-MONGODB)
-* 🧠  I'm learning JAVA SpringBoot
+* 🧠  I'm learning Video editing
 * ⚡  I'am a Part time Video editor for my youtube and paid anime edits
 
 
