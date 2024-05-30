@@ -28,9 +28,9 @@ I am a proficient Back End Developer with expertise in a wide range of technolog
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daguanren21&show_icons=true&theme=dark&locale=en&layout=compact" alt="mehulmeena064" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daguanren21&show_icons=true&theme=dark&locale=en" alt="mehulmeena064" /></p>
--->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daguanren21&theme=dark" alt="mehulmeena064" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daguanren21&theme=dark" alt="mehulmeena064" /></p>
+-->
 <!-- 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daguanren21" alt="mehulmeena064" /></a> </p>
