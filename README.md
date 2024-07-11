@@ -1,47 +1,79 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mehul
+Hey there! I'm Mehul ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
-
-BACK END DEVELOPER
-------------------
-[![](https://visitcount.itsvg.in/api?id=mehulmeena064&icon=0&color=0)](https://visitcount.itsvg.in)
-
-I am a proficient Back End Developer with expertise in a wide range of technologies, including Node.js, Golang,JAVA Springboot, Python, Django, Vue.js, HTML, GraphQ, and more. With hands-on experience in working with cloud-based platforms like Cloudflare, MySQL, MongoDB,AWS kafka, and Docker, I have delivered high-quality solutions to complex projects
-
-* ✉️  You can contact me at [Mehulmeena064@gmail.com](mailto:Mehulmeena064@gmail.com)
-* 🚀  I'm currently working on [Golang-Rest-api-Zoho-integration-MongoDB](https://github.com/mehulmina064/Golang-Rest-api-Zoho-integration-MongoDB)
-* 🧠  I'm learning Video editing
-* ⚡  I'am a Part time Video editor for my youtube and paid anime edits
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mehul-mina-4b4984165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulmina064" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20828817/mehul-mina-beastab" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="mehulmina064" height="110" width="110" /></a>
-</p>
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<!-- 
-# 📊 GitHub Stats:
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daguanren21&show_icons=true&theme=dark&locale=en&layout=compact" alt="mehulmeena064" /></p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daguanren21&show_icons=true&theme=dark&locale=en" alt="mehulmeena064" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daguanren21&theme=dark" alt="mehulmeena064" /></p>
--->
-<!-- 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daguanren21" alt="mehulmeena064" /></a> </p>
--->
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-<!-- 
+<!--
 [![](https://visitcount.itsvg.in/api?id=mehulmeena064&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=mehulmina064&color=blueviolet)
+
+I'm a passionate Software Engineer with a knack for building scalable, secure, and high-performance web applications. My coding journey is fueled by coffee ☕ and a relentless drive to create awesome tech solutions.
+
+## What I Do 🚀
+
+- **Backend Wizardry** 🧙‍♂️: Crafting robust backends with Node.js, Golang, and Java Spring Boot.
+- **Cloud Magic** ☁️: Leveraging AWS, Cloudflare, and Docker to keep things running smoothly.
+- **Data Dynamo** 💾: Ensuring efficient data management with MongoDB, MySQL, and PostgreSQL.
+- **Messaging Master** 📡: Seamless inter-service communication using Kafka and RabbitMQ.
+- **IoT Innovator** 🌐: Building smart scheduler services and IoT-webhooks for real-time data management.
+
+
+## Projects 🌟
+
+- **Microservices Architect** 🏗️: Designing scalable architectures and managing web traffic.
+- **E-commerce Guru** 🛒: Developing high-performance APIs and integrating cutting-edge functionalities.
+- **Dashboard Builder** 📊: Creating real-time service dashboards for insightful data visualization.
+- **Microservices Connect** 🏗️: Currently working on a large-scale microservices architecture project aimed at revolutionizing service-oriented applications.
+
+
+
+## GitHub Stats 📊
+
+![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehulmina064&show_icons=true&hide=contribs,prs&theme=dark) 
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulmina064&layout=compact&theme=dark)
+
+
+## My Toolbox 🛠️
+
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=Go&logoColor=white)
+
+### Frameworks
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
+![Elysia](https://img.shields.io/badge/-Elysia-2E2C4E?style=flat&logo=Elysia&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00C7B7?style=flat&logo=Gin&logoColor=white)
+![Trpc](https://img.shields.io/badge/-tRPC-0E0B16?style=flat&logo=tRPC&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
+
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=Google-Cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=Nginx&logoColor=white)
+
+
+
+## Let's Connect 🌐
+
+- **LinkedIn**: [mehul-mina](https://www.linkedin.com/in/mehul-mina-4b4984165/) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulmina064" height="30" width="40" />
+- **GitHub**: [mehulmina064](https://github.com/mehulmina064) <img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white" height="30" width="40" />
+- **YouTube**: [beastab](https://www.youtube.com/@beastab) <img align="center" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" height="30" width="40" />
+- **Stack Overflow**: [mehul-mina-beastab](https://stackoverflow.com/users/20828817/mehul-mina-beastab) <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="mehulmina064" height="30" width="40" />
+- **Medium**: [beastab](https://beastab.medium.com/) <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="beastab" height="30" width="40" />
+
+
+When I'm not coding, you can find me exploring the latest tech trends, playing esports 🎮, or sipping on a fresh brew of coffee ☕. Let's build something amazing together! 🚀
+
+
+
