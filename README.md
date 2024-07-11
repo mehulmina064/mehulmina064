@@ -24,13 +24,6 @@ I'm a passionate Software Engineer with a knack for building scalable, secure, a
 - **Microservices Connect** 🏗️: Currently working on a large-scale microservices architecture project aimed at revolutionizing service-oriented applications.
 
 
-
-## GitHub Stats 📊
-
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehulmina064&show_icons=true&hide=contribs,prs&theme=dark) 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulmina064&layout=compact&theme=dark)
-
-
 ## My Toolbox 🛠️
 
 
@@ -61,6 +54,13 @@ I'm a passionate Software Engineer with a knack for building scalable, secure, a
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=Nginx&logoColor=white)
+
+
+
+## GitHub Stats 📊
+
+![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehulmina064&show_icons=true&hide=contribs,prs&theme=dark) 
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulmina064&layout=compact&theme=dark)
 
 
 
