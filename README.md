@@ -73,6 +73,12 @@ I'm a passionate Software Engineer with a knack for building scalable, secure, a
 - **Medium**: [beastab](https://beastab.medium.com/) <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="beastab" height="30" width="40" />
 
 
+
+### Profile Views
+ 
+![Beastab](https://count.getloli.com/get/@mehulmina064?theme=rule34)
+
+
 When I'm not coding, you can find me exploring the latest tech trends, playing esports 🎮, or sipping on a fresh brew of coffee ☕. Let's build something amazing together! 🚀
 
 
