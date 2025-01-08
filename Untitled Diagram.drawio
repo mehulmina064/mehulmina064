@@ -1,0 +1,35 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="OCTJiP1V2JTLL028ri8L">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Calculated Data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="367" width="243" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Parsed Data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="17" y="8" width="225" height="309" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Parsed data" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="58" y="33" width="144" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Mapping Logic" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="52" y="137" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Calculated data" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="43" y="392" width="173" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
